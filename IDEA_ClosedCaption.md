@@ -9,4 +9,4 @@ Integration/uploading of subtitles or closed captions in videos(mostly music vid
 Automatically sorted movies with each files sorted in a folder based on ratings.
 
 ### Team members
-1. Chinmaya Kattakota (ckchinu17)
+1. Chinmaya Kattakota (@ckchinu17)
