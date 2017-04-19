@@ -1,18 +1,18 @@
 # FIRST AND LAST
 
-### ● Proposal Title:
+### Proposal Title:
 
 A website or an app that showcases the first and last sentences of great novels. It would be a great resource for people who enjoy learning by imitation.
 
-### ● Repository name: 
+### Repository name: 
 
 First and Last
 
-### ● Proposal Abstract:
+### Proposal Abstract:
 
 A place (an app or a website) online where anyone could contribute the first and last sentences of the books they were reading.
 
-### ● Detailed Description of Proposal:
+### Detailed Description of Proposal:
 
 Our goal is to store the first and last sentence of any great novels, by one instant click, a user will get the first and last sentence of novels.
 
@@ -24,16 +24,16 @@ Our goal is to store the first and last sentence of any great novels, by one ins
   Step 5 :-  A user can give upvotes and comment to the sentences .
 ```
 
-### ● Skill required:
+### Skill required:
 
-Front-End :  html, css, javascript.
-Back-End  :  php, mySql.
+* Front-End :  html, css, javascript.
+* Back-End  :  php, mySql.
 		
-### ● Team member’s information:
+### Team member’s information:
  	
 **Members:**
 
-* Vikesh Yadav (github.com/vickxy)
-* Aakanksha (github.com/aakanksha-02)
+1. Vikesh Yadav (github.com/vickxy)
+2. Aakanksha (github.com/aakanksha-02)
 
 
