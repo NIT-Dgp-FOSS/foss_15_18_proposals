@@ -4,7 +4,7 @@
 
 A website or an app that showcases the first and last sentences of great novels. It would be a great resource for people who enjoy learning by imitation. A place (an app or a website) online where anyone could contribute the first and last sentences of the books they are reading.
 
-### Repository name 
+### Repository Name 
 
 First and Last
 
@@ -20,11 +20,11 @@ Our goal is to store the first and last sentence of any great novels, by one ins
   Step 5 :-  A user can give upvotes and comment to the sentences .
 ```
 
-### Expected outcomes
+### Expected Outcomes
 
 People who simply want to write more clearly and concisely may find greater benefit in studying sentences outside the realm of literary fiction.
 
-### Skill required
+### Skill Required
 
 * Front-End :  html, css, javascript.
 * Back-End  :  php, mySql.
