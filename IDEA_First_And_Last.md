@@ -3,34 +3,36 @@
 *************************
 
 **● Proposal Title:**
-A website or an app that showcases the first and last sentences of great novels. 
-It would be a great resource for people who enjoy learning by imitation.
 
-**● Repository name:** First and Last
+A website or an app that showcases the first and last sentences of great novels. It would be a great resource for people who enjoy learning by imitation.
 
-**● Proposal Abstract:** A place (an app or a website) online where anyone could contribute the first and last
-                      sentences of the books they were reading.
+**● Repository name:** 
+First and Last
 
-● Detailed Description of Proposal:
+**● Proposal Abstract:** 
+A place (an app or a website) online where anyone could contribute the first and last sentences of the books they were reading.
+
+**● Detailed Description of Proposal:**
 
 Our goal is to store the first and last sentence of any great novels, by one instant click, a user will get the first and last sentence of novels.
 
-o Step 1 :-  Develop the Sign-Up and Sign-In feature in the App. 
-o Step 2 :-  Get User input(book title, author name, first sentence and last sentence).
-o Step 3 :-  Store it in database.
-o Step 4 :-  Fetch from the database and display it on the browser.
-o Step 5 :-  A user can give upvotes and comment to the sentences .
+```
+1. Step 1 :-  Develop the Sign-Up and Sign-In feature in the App. 
+2. Step 2 :-  Get User input(book title, author name, first sentence and last sentence).
+3. Step 3 :-  Store it in database.
+4. Step 4 :-  Fetch from the database and display it on the browser.
+5. Step 5 :-  A user can give upvotes and comment to the sentences .
+```
 
-
-● Skill required:
+**● Skill required:**
 Front-End :  html, css, javascript.
 Back-End  :  php, mySql.
 		
-Team member’s information
+**Team member’s information**
  	
-Members: 	Vikesh Yadav (github.com/vickxy)
-          Aakanksha (github.com/aakanksha-02)
+Members:  * Vikesh Yadav (github.com/vickxy)
+          * Aakanksha (github.com/aakanksha-02)
 
-Email:  	star.vikesh@gmail.com  
+Email: 	star.vikesh@gmail.com  
 
 Mobile: 9563352067
