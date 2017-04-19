@@ -1,12 +1,10 @@
-*************************
-***Project information***
-*************************
+# FIRST AND LAST
 
-**● Proposal Title:**
+### ● Proposal Title:
 
 A website or an app that showcases the first and last sentences of great novels. It would be a great resource for people who enjoy learning by imitation.
 
-**● Repository name:** 
+### ● Repository name: 
 
 First and Last
 
