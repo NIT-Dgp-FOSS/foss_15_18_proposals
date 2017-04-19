@@ -20,12 +20,9 @@ Our goal is to store the first and last sentence of any great novels, by one ins
   Step 5 :-  A user can give upvotes and comment to the sentences .
 ```
 
-### expected outcomes
+### Expected outcomes
 
 People who simply want to write more clearly and concisely may find greater benefit in studying sentences outside the realm of literary fiction.
-
-**EXAMPLE :** http://rogercollier.com/firstlast/
-
 
 ### Skill required
 
