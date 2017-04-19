@@ -24,7 +24,7 @@ Our goal is to store the first and last sentence of any great novels, by one ins
 
 People who simply want to write more clearly and concisely may find greater benefit in studying sentences outside the realm of literary fiction.
 
-**EXAMPLE : **http://rogercollier.com/firstlast/
+**EXAMPLE :** http://rogercollier.com/firstlast/
 
 
 ### Skill required
