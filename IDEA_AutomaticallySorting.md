@@ -1,4 +1,4 @@
-## Project Title
+    ## Project Title
 
 **Movie Sorting**
 
@@ -17,5 +17,5 @@ Automatically sorted movies with each files sorted in a folder based on ratings.
 ### Team members
 1. Anuradha Sharma (@as04)
 2. Shyam Sunder Kumar (@theainerd)
-3. Namrata Raghuwanshi
+3. Namrata Raghuwanshi (@raghunami25)
 4. Rahul Kumar Pandey
