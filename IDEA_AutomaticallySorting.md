@@ -18,4 +18,4 @@ Automatically sorted movies with each files sorted in a folder based on ratings.
 1. Anuradha Sharma (@as04)
 2. Shyam Sunder Kumar (@theainerd)
 3. Namrata Raghuwanshi (@raghunami25)
-4. Rahul Kumar Pandey
+4. Rahul Kumar Pandey (@pandey111095)
