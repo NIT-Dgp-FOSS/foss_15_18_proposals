@@ -16,7 +16,7 @@ The proposals need to follow the following structure:
 To submit an idea, do so by the following steps:
 
     Fork this repo
-    Create your own IDEA_<file_name>.md file and name it appropriately with your idea using the above structure
+    Create your own <file_name>.md file and name it appropriately with your idea (example: my_awesome_idea.md) using the above structure
     Submit your pull request back to this repo
 
 We will review the submission and if we feel it needs polishing we will respond accordingly. All ideas will be added to the repo.
