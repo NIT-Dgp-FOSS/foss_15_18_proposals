@@ -17,3 +17,5 @@ It will post one news to my all social networking website.
 2. Pankaj Kumar Bharati (@pankaj7294)
 3. Sandeep Kumar (@gelobmith)
 4. Avijit Dolui (@avijitdolui)
+5. ramjee gupta (@87rjg)
+6. kundan kumar (@kundanrocks13)
